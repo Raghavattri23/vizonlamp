@@ -73,7 +73,7 @@ nav .menu{
         transform : translateX(-50%);
         width: 700px ;
         margin-left:-10px ;
-        opacity: 0;
+        
         transition: opacity 0.5s;
      }
 
